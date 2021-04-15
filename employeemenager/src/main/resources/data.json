@@ -1,0 +1,23 @@
+[
+  {
+    "email": "azert@gmail.com",
+    "imgUrl": "img/img1.jpg",
+    "jobTitle": "Java",
+    "name": "Mouhamed",
+    "phone": "772568459"
+  },
+  {
+    "email": "azdjbn@gmail.com",
+    "imgUrl": "img/img3.jpg",
+    "jobTitle": "Python",
+    "name": "Seydina",
+    "phone": "782564898"
+  },
+  {
+    "email": "azertnjdn@gmail.com",
+    "imgUrl": "img/img2.jpj",
+    "jobTitle": "Python",
+    "name": "Khadim",
+    "phone": "769854872"
+  }
+]
